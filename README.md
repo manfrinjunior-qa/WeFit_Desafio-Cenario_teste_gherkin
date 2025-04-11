@@ -52,7 +52,7 @@ Funcionalidade: Tela que permite visualizar os itens adicionados no carrinho
     E deve haver um icone (Lixeira) para remover o filme que não deseja
     E um botão (+) para aumentar / (-) para diminuir 
     E o botão "Finalizar Compra" deve estar visível
-````
+```
 
 📸 Imagem do Cenário Testado
 
@@ -83,6 +83,32 @@ Funcionalidade: Tela que permite visualizar os itens adicionados no carrinho
 - Adicionar uma tela de Frete, permitindo que o usuário revise o endereço de entrega
 
 - Otimizar o carregamento de imagens para redes móveis
+
+---
+
+### 📄 Como visualizar arquivos .feature
+
+Os arquivos .feature, escritos em Gherkin, podem ser abertos e editados em qualquer editor de texto. Recomendamos o uso de editores com suporte à sintaxe Gherkin para uma melhor experiência, como:
+
+ ```
+    Visual Studio Code: possui extensões como Cucumber (Gherkin) Full Support que destacam a sintaxe, oferecem autocomplete e ajudam na navegação entre os steps.
+
+    Sublime Text: também suporta arquivos .feature e possui plugins disponíveis para realce de sintaxe Gherkin.
+```
+
+Para abrir um arquivo .feature:
+
+```
+    Abra seu editor de código preferido (por exemplo, VS Code ou Sublime Text).
+
+    Opção Desktop Navegue até a pasta WeFit/Desktop - Teste-Front-React (ou o caminho onde os arquivos estão localizados).
+    
+    Opção Mobile Navegue até a pasta WeFit/Mobile - Teste-Front-React (ou o caminho onde os arquivos estão localizados).
+
+    Clique duas vezes no arquivo desejado ou use o atalho do seu editor para abrir arquivos.
+
+    Se necessário, instale uma extensão de suporte a Gherkin para facilitar a leitura.
+```
 
 ---
 
